@@ -1,5 +1,5 @@
 
-# Sales Performance & Customer Behavior Analysis Dashboard
+# Sales & Customer Profitability Analysis Dashboard
 
 ## Project Overview
 This project analyzes sales data to identify key revenue drivers, regional performance trends, customer purchasing behavior and profitability.
@@ -33,22 +33,20 @@ Power BI
 - Business Analysis
   
 ## Dashboard Pages
-1. Executive Summary
-2. Regional Trends
-3. Customer Behavior
+1. Sales Trends and Revenue Drivers
+2. Customer Segmentation and Profitability
 
-![Page 1](images/page1_excutive_summary.png)
-![Page 2](images/page2_regional_trends.png)
-![Page 3](images/page3_customer_behavior.png)
+![Page 1](images/page1_sales trends_revenue drivers.png)
+![Page 2](images/page2_customer segmentation_profitability.png)
 
 ## Key Insights
 - United States and Australia are top revenue contributors
 - No region shows consistent decline
 - Majority customers are low-value, indicating lack of strong loyalty base
-- Bikes category contributes ~96% of total sales
+- United States and Australia are top profitable countries
 
 ## Business Impact
-Enabled identification of revenue drivers, regional trends, and customer behavior to support data-driven decision making.
+Enabled identification of revenue drivers, regional trends, customer behavior and Profitability to support data-driven decision making.
 
 ## GitHub repo structure 
 - datasets/
@@ -57,9 +55,3 @@ Enabled identification of revenue drivers, regional trends, and customer behavio
 - powerbi/
 - sql/
 - README.md
-
-
-
-
-
-
