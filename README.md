@@ -36,8 +36,8 @@ Power BI
 1. Sales Trends and Revenue Drivers
 2. Customer Segmentation and Profitability
 
-![Page 1](images/page1_sales trends_revenue drivers.png)
-![Page 2](images/page2_customer segmentation_profitability.png)
+![Page 1](images/Page1_SalesTrends_RevenueDrivers.png)
+![Page 2](images/Page2_CustomerSegmentation_Profitability.png)
 
 ## Key Insights
 - United States and Australia are top revenue contributors
