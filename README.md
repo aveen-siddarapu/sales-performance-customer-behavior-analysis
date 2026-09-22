@@ -15,14 +15,14 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 - Power BI (Star Schema model, DAX, Data Visualization)
   
 ## Concepts
-SQL
+-SQL
 - Joins (Combined business data from multiple tables)
 - Group By (Identified Top performers by sales)
 - Sub queries (Dynamic results)
 - Window functions (Ranked TOP5 customers, products)
 - Views (Prepared the data for Power BI)
   
-Power BI
+-Power BI
 - Data Understanding
 - Data Cleaning
 - Data Validation
