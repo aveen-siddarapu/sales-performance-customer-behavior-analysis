@@ -1,5 +1,5 @@
 customer_key,customer_id,customer_number,first_name,last_name,country,marital_status,gender,birthdate,create_date
-1,11000,AW00011000,Jon,Yang,Australia,Married,Male,10/6/1971,10/6/2025.
+1,11000,AW00011000,Jon,Yang,Australia,Married,Male,10/6/1971,10/6/2025
 2,11001,AW00011001,Eugene,Huang,Australia,Single,Male,5/10/1976,10/6/2025
 3,11002,AW00011002,Ruben,Torres,Australia,Married,Male,2/9/1971,10/6/2025
 4,11003,AW00011003,Christy,Zhu,Australia,Single,Female,8/14/1973,10/6/2025
