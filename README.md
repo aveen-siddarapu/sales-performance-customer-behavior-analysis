@@ -38,6 +38,7 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 
 ![Page 1](images/Page1_SalesTrends_RevenueDrivers.png)
 
+
 ![Page 2](images/Page2_CustomerSegmentation_Profitability.png)
 
 ## Key Insights
